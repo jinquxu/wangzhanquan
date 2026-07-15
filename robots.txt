@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jinquxu.github.io/wangzhanquan/sitemap.xml
